@@ -1,0 +1,12 @@
+{
+  "name": "ngdeploy",
+  "version": "0.0.0",
+  "description": "ngdeploy",
+  "main": "app.js",
+  "author": {
+    "name": "Jack"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
